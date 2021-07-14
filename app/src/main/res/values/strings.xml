@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Egg timer</string>
+    <string name="timerText">00 : 00</string>
+    <string name="buttonText">Go</string>
+</resources>
